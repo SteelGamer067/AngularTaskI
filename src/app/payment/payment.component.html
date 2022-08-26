@@ -1,0 +1,16 @@
+<head>
+  <title>Your Cart</title>
+</head>
+
+<body>
+  <div>
+    <h3>Items in cart</h3>
+
+    Name: {{ item.name }} <br />
+    Price: {{ item.price }} <br />
+    Quantity: <input type="number" [(ngModel)]="qty" /><br />
+    <br />
+    Total: {{ item.price * qty }}
+  </div>
+</body>
+

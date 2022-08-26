@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\inventory",
+    "\\src\\app\\payment",
+    "\\src\\app\\sales"
+  ],
+  "SelectedNode": "\\tsconfig.json",
+  "PreviewInSolutionExplorer": false
+}
